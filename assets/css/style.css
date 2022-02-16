@@ -133,6 +133,10 @@ main {
   font-size: 20px;
 }
 
+.btn:hover {
+  background-color: #6C38A0;
+}
+
 
 /*=================================
   main styling ends here
